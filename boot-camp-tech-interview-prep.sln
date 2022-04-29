@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boot-camp-tech-interview-prep", "boot-camp-tech-interview-prep\boot-camp-tech-interview-prep.csproj", "{F6D5701F-3EE7-40F3-A73B-D72F207CE64C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{648E412F-A206-4028-A2C0-395940112A4F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D5701F-3EE7-40F3-A73B-D72F207CE64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D5701F-3EE7-40F3-A73B-D72F207CE64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D5701F-3EE7-40F3-A73B-D72F207CE64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D5701F-3EE7-40F3-A73B-D72F207CE64C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FCF09EC-ACE5-4FFD-A01B-1083323F34DD}
+	EndGlobalSection
+EndGlobal
